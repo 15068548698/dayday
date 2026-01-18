@@ -1,0 +1,9 @@
+{
+	"name": "myfirstdatafac22",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b92edce9-a59d-4350-93c1-84a8154a8126",
+		"tenantId": "e9428938-63c6-489c-b85f-e5b688cfe4ca"
+	}
+}
